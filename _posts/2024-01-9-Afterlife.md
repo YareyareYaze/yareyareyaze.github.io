@@ -19,7 +19,7 @@ Afterlife is a top down RTS set in a post-apocalyptic world filled with zombies.
 
 <br>This game was developed by my team during our 2nd year at DigiPen, in the Software Engineering Project module accross 2 semesters.
 
-<br>Download link for this game can be found <a href="https://games.digipen.edu/games/afterlife">here</a>
+<br>Download link for this game can be found <a href="https://games.digipen.edu/games/afterlife" target="_blank">here</a>
 
 
 <br>Gameplay Screenshots
