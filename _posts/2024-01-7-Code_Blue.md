@@ -14,7 +14,7 @@ Code Blue Go was my final year project at Temasek Polytechnic, in collaboration 
 
 <br>Code blue refers to a situation where a patient has either gone into cardiac arrest or lost their consciousness, requiring emergency treatment within the hospital grounds. Throughout the game, the player will be tested on what they are required to do as per protocol. Getting questions wrong will delay the time the patient will get treatment. 
 
-<br>This project was nominated for Temasek Poly’s 2018 Top Diploma Project
+<br>This project was nominated for Temasek Poly’s 2018 Top Diploma Project.
 
 <br><a href="https://www.straitstimes.com/singapore/temasek-poly-students-develop-tech-projects-to-add-more-realism-to-clinical-training-for">News Article</a>
 ![Image](\assets\images\project\Code_Blue\Code_Blue_News.png)
