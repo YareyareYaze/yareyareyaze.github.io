@@ -16,8 +16,9 @@ Eon Rangers is a co-op puzzle platformer that revolves around 2 characters with 
 
 <br>This game was made with the theme of “Friendship”.
 
-<br>This was a game my team developed that achieved 2nd place at the JamesCook University 2016 Retro Inspired Game Jam.
+<br>This was a game my team of 4 developed that achieved 2nd place at the JamesCook University 2016 Retro Inspired Game Jam.
 
+<br>I was in charge of the level design for this game.
 
 <br>Gameplay Screenshots
 

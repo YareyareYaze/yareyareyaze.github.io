@@ -14,7 +14,7 @@ Propulsion is a puzzle platformer that revolves around the propulsion gun given 
 
 <br>As per the name of the gun, the propulsion gun allows the player to propel themselves around the level, only being able to access the next level by reaching the end of the current one.
 
-<br>This game was made by my team at an in-house game jam orgranised by my course at Temasek Polytechnic.
+<br>This game was made by my team of 4 at an in-house game jam orgranised by my course at Temasek Polytechnic.
 
 <br>Gameplay Screenshots
 

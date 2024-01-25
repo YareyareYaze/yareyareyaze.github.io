@@ -12,7 +12,9 @@ header_image: \assets\images\project\Teehees_Revenge\Teehees_Revenge_Title.png  
 </style>
 A 3rd person Action/Adventure shooter set in a space station, where you play as a Space Ape using a cute Baby Ape to fight enemies while causing mayhem!
 
-<br>This game was developed by my team during our 3rd year at DigiPen, in the Software Engineering Project module across 2 semesters.
+<br>This game was developed by my team of 10 during our 3rd year at DigiPen, in the Software Engineering Project module across 2 semesters.
+
+<br>I was the Product Manager and lead the team through its development cycle.
 
 <br>Gameplay Screenshots
 

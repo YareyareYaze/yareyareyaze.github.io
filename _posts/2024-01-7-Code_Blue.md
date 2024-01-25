@@ -16,6 +16,8 @@ Code Blue Go was my final year project at Temasek Polytechnic, in collaboration 
 
 <br>This project was nominated for Temasek Poly’s 2018 Top Diploma Project.
 
+<br>I was in charge of the design of game.
+
 <br><a href="https://www.straitstimes.com/singapore/temasek-poly-students-develop-tech-projects-to-add-more-realism-to-clinical-training-for" target="_blank">News Article</a>
 ![Image](\assets\images\project\Code_Blue\Code_Blue_News.png)
 

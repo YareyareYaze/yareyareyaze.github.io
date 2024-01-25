@@ -16,7 +16,6 @@ Cewlwars is a tug of war game that focuses on Bulls versus Bears, as per the the
 
 <br>This game was created by my team at the 2015 DBS Game Jam during my time at Temasek Polytechnic.
 
-
 <br>Gameplay Screenshots
 
 ![Image](\assets\images\project\CewlWars\CewlWars_ss_1.png)

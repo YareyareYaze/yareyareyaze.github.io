@@ -14,7 +14,9 @@ header_image: \assets\images\project\Build_A_Robot\Build_A_Robot_Header.png     
 
 Build-A-Robot is a single player tug of war game, inspired by games such as Age of War and Stick Wars. The objective of the game is to collect the parts of your giant robot and put them together. Only when the robot has been assembled can the player have the firepower to blow up the enemy base.
 
-<br>This game was developed by my team during our 1st year at DigiPen, in the Software Engineering Project module
+<br>This game was developed by my team of 4 during our 1st year at DigiPen, in the Software Engineering Project module.
+
+<br>I was part of the gameplay team for this project.
 
 <br>Gameplay Screenshots
 
